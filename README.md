@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Supraja90
+- 👋 Hi, I’m Supraja 
+- Engineering undergraduate 
 
 <!---
 Supraja90/Supraja90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
