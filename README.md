@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supraja</h1>
-<h3 align="center">Dedicated Engineering undergraduate with extensive knowledge of Data science and Artificial Intelligence. A creative thinker, adept at receiving and monitoring data from multiple data streams, including Access, SQL and Excel data sources.</h3>
+<h3 align="center">Dedicated Engineering graduate with extensive knowledge of Data science and Artificial Intelligence. A creative thinker, adept at receiving and monitoring data from multiple data streams, including Access, SQL and Excel data sources.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supraja90?tab=repositories](https://github.com/Supraja90?tab=repositories)
 
